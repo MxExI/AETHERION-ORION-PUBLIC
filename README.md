@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="AETHERION ORION Banner" width="100%">
+</p>
 <div align="center">
 
 # 🧭 AETHERION ORION
