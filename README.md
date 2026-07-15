@@ -45,7 +45,7 @@ Unlike traditional AI assistants, ORION focuses on engineering governance, evide
 
 Guide engineering teams from GitHub connection to a CTO-ready report in minutes.
 
-![Free Trial](screenshots/01-free-trial.png)
+![Free Trial](screenshots/free-trial.png)
 
 ---
 
@@ -53,7 +53,7 @@ Guide engineering teams from GitHub connection to a CTO-ready report in minutes.
 
 Secure read-only repository analysis powered by real GitHub engineering evidence.
 
-![GitHub Intelligence](screenshots/02-github-intelligence.png)
+![GitHub Intelligence](screenshots/github-intelligence.png)
 
 ---
 
@@ -61,7 +61,7 @@ Secure read-only repository analysis powered by real GitHub engineering evidence
 
 Analyze incidents, release risks, runtime investigations and engineering scenarios.
 
-![Investigation Workspace](screenshots/03-investigation-workspace.png)
+![Investigation Workspace](screenshots/investigation-workspace.png)
 
 ---
 
@@ -69,7 +69,7 @@ Analyze incidents, release risks, runtime investigations and engineering scenari
 
 Monitor engineering activity, operational insights and executive metrics.
 
-![Executive Analytics](screenshots/04-executive-analytics.png)
+![Executive Analytics](screenshots/executive-analytics.png)
 
 ---
 
@@ -77,7 +77,7 @@ Monitor engineering activity, operational insights and executive metrics.
 
 Track customer feedback, feature requests, bug reports and measurable business value.
 
-![Customer Success Center](screenshots/05-customer-success-center.png)
+![Customer Success Center](screenshots/customer-success-center.png)
 
 ---
 
